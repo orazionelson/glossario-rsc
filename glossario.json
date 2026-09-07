@@ -1,0 +1,1077 @@
+{
+  "title": "Glossario delle Resilient Smart Cities",
+  "version": "1.0",
+  "language": "it",
+  "license": {
+    "name": "Creative Commons Attribution 4.0 International",
+    "spdx": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "source": "https://github.com/orazionelson/glossario-rsc",
+  "generated": "2026-09-07",
+  "count": 177,
+  "entries": [
+    {
+      "term": "5G",
+      "definition": "Quinta generazione delle reti mobili.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ACN",
+      "definition": "Agenzia per la Cybersicurezza Nazionale. Autorità che definisce misure e framework di cybersicurezza per PA e settori critici; cura il recepimento NIS2.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ADI",
+      "definition": "Assistenza Domiciliare Integrata. Cure sanitarie e sociosanitarie erogate al domicilio del paziente, integrando prestazioni mediche, infermieristiche e sociali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "AGENAS",
+      "definition": "Agenzia Nazionale per i Servizi Sanitari Regionali. Ente di supporto tecnico al sistema sanitario; gestisce la Piattaforma Nazionale di Telemedicina del PNRR.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "AgID",
+      "definition": "Agenzia per l’Italia Digitale. Guida la trasformazione digitale della PA: piano triennale, linee guida e monitoraggio dei servizi digitali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "AI / IA",
+      "definition": "Artificial Intelligence / Intelligenza Artificiale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ANAC",
+      "definition": "Autorità Nazionale Anticorruzione. Vigila su trasparenza, integrità e contratti pubblici; definisce la checklist dell’Amministrazione Trasparente.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ancoraggio",
+      "definition": "Aggancio degli estremi di una scala di misura a riferimenti esterni e documentati (una norma, un registro pubblico, un obbligo di rendicontazione) anziché a scelte discrezionali di chi misura.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ANPR",
+      "definition": "Anagrafe Nazionale della Popolazione Residente. Banca dati nazionale unica che ha sostituito le anagrafi comunali; base dei servizi digitali al cittadino.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "APE",
+      "definition": "Attestato di Prestazione Energetica. Certifica l’efficienza energetica di un immobile (classi da A4 a G); è registrato nei catasti energetici regionali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ARERA",
+      "definition": "Autorità di Regolazione per Energia Reti e Ambiente. Regola energia, reti idriche e rifiuti; fissa gli standard di continuità elettrica D1/N1.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ARPAE",
+      "definition": "Agenzia Regionale per la Prevenzione, l’Ambiente e l’Energia dell’Emilia-Romagna. Produce dati ambientali e carte di pericolosità idrogeologica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ASL",
+      "definition": "Azienda Sanitaria Locale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "AUSL",
+      "definition": "Azienda Unità Sanitaria Locale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BACS",
+      "definition": "Building Automation and Control Systems. Sistemi di automazione e controllo degli impianti di un edificio (clima, illuminazione, energia).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BDAP",
+      "definition": "Banca Dati delle Amministrazioni Pubbliche. Banca dati del MEF su bilanci, debito e investimenti degli enti; fonte per la salute finanziaria dei comuni.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BES",
+      "definition": "Benessere Equo e Sostenibile. Sistema ISTAT di 152 indicatori in 12 domini che misura il benessere oltre il PIL, con dettaglio regionale e provinciale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BMS",
+      "definition": "Building Management System. Sistema di supervisione e telegestione centralizzata degli impianti tecnologici di un edificio.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BRC",
+      "definition": "British Retail Consortium (Global Standard). Standard internazionale di certificazione della sicurezza e qualità dei prodotti alimentari.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BREEAM",
+      "definition": "Building Research Establishment Environmental Assessment Method. Schema britannico di certificazione volontaria della sostenibilità degli edifici.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "BUL",
+      "definition": "Banda Ultra Larga. Piano nazionale per la connettività ad altissima velocità nelle aree a fallimento di mercato; attuato da Infratel.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "byzantine failure",
+      "definition": "Guasto bizantino: il componente non tace ma produce dati errati o incoerenti restando formalmente attivo; il caso più insidioso da rilevare.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CACER",
+      "definition": "Configurazioni di Autoconsumo per la Condivisione dell’Energia Rinnovabile. Famiglia di configurazioni (tra cui le CER) incentivate dal GSE; disciplinate dal D.M. MASE 414/2023, detto Decreto CACER.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CAD",
+      "definition": "Codice dell’Amministrazione Digitale (D.Lgs 82/2005). Legge quadro della digitalizzazione della PA italiana; l’art. 50-ter istituisce la PDND.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CAP",
+      "definition": "Common Alerting Protocol. Standard internazionale per la strutturazione dei messaggi di allerta alla popolazione; adottato da IT-alert.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CCC",
+      "definition": "Climate City Contract. Contratto della EU Cities Mission in tre componenti (Commitments, Actions, Investments) verso la neutralità climatica 2030.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CDP-ICLEI Track",
+      "definition": "Canale unificato di rendicontazione climatica delle città, gestito da CDP (già Carbon Disclosure Project) e ICLEI; raccoglie il reporting MEL dei CCC.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "cell broadcast",
+      "definition": "Tecnologia che invia messaggi a tutti i telefoni presenti in un’area di celle radio, senza registrazione preventiva; usata da IT-alert.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CER",
+      "definition": "Comunità Energetica Rinnovabile. Aggregazione di cittadini, imprese ed enti che produce e condivide energia rinnovabile; incentivata dal GSE ex D.Lgs 199/2021.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CI/CD",
+      "definition": "Continuous Integration / Continuous Deployment. Prassi DevOps di integrazione e rilascio continui, applicata per analogia all’aggiornamento nel tempo dei servizi urbani digitali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CIE",
+      "definition": "Carta d’Identità Elettronica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "citizen science",
+      "definition": "Partecipazione dei cittadini alla raccolta e validazione di dati scientifici; accresce la densità del monitoraggio urbano.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CIVITAS",
+      "definition": "CIty VITAlity Sustainability. Iniziativa UE che finanzia e mette in rete le città impegnate nella mobilità urbana sostenibile.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Classe di Rischio Sismico",
+      "definition": "Classificazione A+–G del rischio sismico degli edifici (DM 58/2017, Sismabonus), derivata dai parametri ζE; nata sul modello della classificazione energetica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "comunità di pratica",
+      "definition": "Gruppo che condivide una pratica e apprende partecipandovi (Lave & Wenger, 1991); l’apprendimento come socializzazione in un contesto d’uso, non trasferimento di nozioni.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "coorte",
+      "definition": "Gruppo di unità comparabili usato come termine di paragone: i percentili della sua distribuzione forniscono i valori di riferimento quando per un indicatore non esiste una scala assoluta.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "COVID-19",
+      "definition": "COronaVIrus Disease 2019.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CPI",
+      "definition": "Certificato di Prevenzione Incendi. Attestazione dei Vigili del Fuoco della conformità antincendio di attività ed edifici soggetti a controllo.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "crash failure",
+      "definition": "Guasto per arresto: il componente smette di rispondere; l’assenza è osservabile e quindi gestibile con un ripiego.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CSIRT",
+      "definition": "Computer Security Incident Response Team. Squadra di risposta agli incidenti informatici; il CSIRT Italia opera presso l’ACN.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "CUP",
+      "definition": "Centro Unico di Prenotazione. Sistema centralizzato di prenotazione delle prestazioni sanitarie.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "D1 / N1",
+      "definition": "Indicatori ARERA di continuità elettrica: durata cumulata (D1, minuti/utente) e numero (N1) delle interruzioni annue per utente.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DAD",
+      "definition": "Didattica A Distanza.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "dark data",
+      "definition": "Dati raccolti ma mai trasformati in informazione utile alla decisione; il prodotto della sensoristica senza interoperabilità.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "data governance",
+      "definition": "Insieme di ruoli, regole e procedure che stabiliscono chi risponde della qualità, della sicurezza e dell’uso dei dati di un’organizzazione.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Data Manager",
+      "definition": "Ruolo che definisce le regole di governance del dato e traduce gli obiettivi dell’ente in requisiti, negoziandoli con chi lavora sul campo.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Data Steward",
+      "definition": "Referente di prossimità che assicura la qualità del dato all’origine nei singoli uffici e segnala dove l’infrastruttura educativa sta fallendo.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DESI",
+      "definition": "Digital Economy and Society Index. Indice della Commissione UE che misura la digitalizzazione di economia e società degli Stati membri.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DevOps",
+      "definition": "Development & Operations. Cultura di collaborazione tra sviluppo software e gestione operativa, basata su automazione e rilascio continuo.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DigComp / DigCompEdu",
+      "definition": "Digital Competence Framework (for Citizens / for Educators). Quadri europei di riferimento delle competenze digitali di cittadini e docenti.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "digital twin",
+      "definition": "Gemello digitale: replica virtuale di un sistema fisico, aggiornata con dati reali, usata per simulare scenari e testare interventi.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DII",
+      "definition": "Digital Intensity Index. Indice UE del livello di digitalizzazione delle imprese, usato nel monitoraggio del Decennio Digitale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "D.Lgs",
+      "definition": "Decreto Legislativo.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DM 77/2022",
+      "definition": "Decreto ministeriale di riforma dell’assistenza territoriale del sistema sanitario: Case della Comunità, ospedali di comunità, assistenza domiciliare.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DMA",
+      "definition": "Digital Maturity Assessment. Valutazione standard della maturità digitale delle imprese usata dagli European Digital Innovation Hub.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DMP",
+      "definition": "Data Management Plan. Documento che descrive origine, formati, responsabilità e ciclo di vita dei dati di un’organizzazione o di un progetto.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DPIA",
+      "definition": "Data Protection Impact Assessment. Valutazione d’impatto privacy richiesta dal GDPR per i trattamenti ad alto rischio (es. videosorveglianza analitica).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DPO",
+      "definition": "Data Protection Officer. Responsabile della protezione dei dati, figura obbligatoria nella PA prevista dal GDPR.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "DR",
+      "definition": "Disaster Recovery. Misure per ripristinare sistemi e dati informatici dopo un evento distruttivo; dimensionato da RTO e RPO.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "edge computing",
+      "definition": "Elaborazione dei dati vicino a dove sono generati (ai margini della rete), riducendo la dipendenza dal centro.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EDIH",
+      "definition": "European Digital Innovation Hub. Poli europei cofinanziati dalla Commissione che supportano la digitalizzazione di PMI e PA.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EDS",
+      "definition": "Ecosistema Dati Sanitari. Infrastruttura nazionale (PNRR) per l’interoperabilità e l’uso secondario dei dati sanitari.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EFSA",
+      "definition": "European Food Safety Authority. Autorità europea per la sicurezza alimentare; ha sede a Parma.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "eGovernment Benchmark",
+      "definition": "Rilevazione annuale della Commissione UE sulla maturità dei servizi pubblici digitali; punteggio 0–100 su user-centricity, trasparenza, key enabler e servizi cross-border.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EHR",
+      "definition": "Electronic Health Record. Cartella clinica elettronica: registro digitale longitudinale dei dati clinici del paziente.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EMAS",
+      "definition": "Eco-Management and Audit Scheme. Schema volontario UE di gestione e audit ambientale, con registro pubblico delle organizzazioni aderenti.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ENEA",
+      "definition": "Agenzia nazionale per le nuove tecnologie, l’energia e lo sviluppo economico sostenibile.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EnMS",
+      "definition": "Energy Management System. Sistema di gestione dell’energia di un’organizzazione; certificabile secondo ISO 50001.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "EPC",
+      "definition": "Energy Performance Contract. Contratto di prestazione energetica: il fornitore garantisce risparmi misurati e si remunera in parte su di essi.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "e-service",
+      "definition": "Servizio digitale esposto sul catalogo PDND per lo scambio di dati tra enti in modalità interoperabile.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "FER",
+      "definition": "Fonti Energetiche Rinnovabili.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "FSE",
+      "definition": "Fascicolo Sanitario Elettronico. Raccolta online di documenti e dati clinici del cittadino; il FSE 2.0 è potenziato e uniformato dal PNRR.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GBFS",
+      "definition": "General Bikeshare Feed Specification. Standard aperto per pubblicare in tempo reale disponibilità e posizione dei veicoli in sharing.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GDPR",
+      "definition": "General Data Protection Regulation. Regolamento generale (UE) 2016/679 sulla protezione dei dati personali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GHG",
+      "definition": "GreenHouse Gases (gas serra).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GIS",
+      "definition": "Geographic Information System.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "graceful degradation",
+      "definition": "Degradazione morbida: capacità di un sistema di perdere funzioni secondarie mantenendo quelle vitali quando componenti o controllo collassano.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GSE",
+      "definition": "Gestore dei Servizi Energetici. Società pubblica che gestisce gli incentivi a rinnovabili, CER e Transizione 5.0 e ne monitora i risultati.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GTFS",
+      "definition": "General Transit Feed Specification. Standard aperto de facto per orari (GTFS) e dati in tempo reale (GTFS-RT) del trasporto pubblico.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "GTFS / GTFS-RT",
+      "definition": "General Transit Feed Specification (Real-Time). Formato aperto per pubblicare orari e, nella variante RT, posizioni in tempo reale del trasporto pubblico.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "guasto a causa comune",
+      "definition": "Guasto che colpisce insieme componenti duplicati perché ne condividono un elemento — alimentazione, software, esposizione all’evento — annullando la ridondanza.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "H2020",
+      "definition": "Horizon 2020. Programma quadro UE per ricerca e innovazione 2014–2020, predecessore di Horizon Europe.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "HRO",
+      "definition": "High Reliability Organizations. Studi sulle organizzazioni che governano tecnologie pericolose con pochi incidenti; si oppone alla teoria degli incidenti normali.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "human-in-the-loop",
+      "definition": "Supervisione umana sulle decisioni algoritmiche: la macchina esegue la pipeline operativa, l’uomo ne valida direzione e perimetro.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "HVD",
+      "definition": "High-Value Datasets. Dataset ad alto valore che gli enti pubblici devono pubblicare in formato aperto per obbligo UE (Reg. 2023/138).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ICT",
+      "definition": "Information and Communication Technology.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IEC 62443",
+      "definition": "Famiglia di standard internazionali per la cybersicurezza dei sistemi di automazione e controllo industriale (OT).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IFS",
+      "definition": "International Featured Standards. Standard di certificazione della sicurezza e qualità dei prodotti alimentari, riconosciuto dalla grande distribuzione.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "impact pathway",
+      "definition": "Catena logica in quattro stadi — risorse impiegate, prodotti, effetti, impatti — usata dal CCC per collegare le azioni alle riduzioni di emissioni.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Industry 5.0",
+      "definition": "Visione UE della produzione human-centric, sostenibile e resiliente, che estende l’automazione di Industria 4.0.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "INVALSI",
+      "definition": "Istituto Nazionale per la VALutazione del Sistema educativo di Istruzione e formazione. Conduce le prove standardizzate nazionali sugli apprendimenti.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IO (app)",
+      "definition": "App ufficiale dei servizi pubblici italiani, gestita da PagoPA S.p.A.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IoT",
+      "definition": "Internet of Things.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IR",
+      "definition": "Incident Response. Processo strutturato di rilevazione, gestione e risoluzione degli incidenti di sicurezza informatica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IREN / IRETI",
+      "definition": "IREN è la multiutility del Nord-Ovest; IRETI è la sua società di distribuzione di energia elettrica e gas, attiva a Parma.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "islanding",
+      "definition": "Funzionamento in isola: un nodo (es. una microrete) continua a operare disconnesso dalla rete principale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO",
+      "definition": "International Organization for Standardization.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 22000",
+      "definition": "Standard per i sistemi di gestione della sicurezza alimentare.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 37101",
+      "definition": "Standard per i sistemi di gestione dello sviluppo sostenibile delle comunità.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 37120",
+      "definition": "Indicatori per i servizi urbani e la qualità della vita (città sostenibili).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 37122",
+      "definition": "Indicatori per le smart city.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 37123",
+      "definition": "Indicatori per le città resilienti.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 37124",
+      "definition": "Guida all’uso congiunto di ISO 37120, 37122 e 37123.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 39001",
+      "definition": "Standard per i sistemi di gestione della sicurezza del traffico stradale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 50001",
+      "definition": "Standard per i sistemi di gestione dell’energia (EnMS).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO 9001",
+      "definition": "Standard per i sistemi di gestione della qualità.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISO/IEC 27001",
+      "definition": "Standard per i sistemi di gestione della sicurezza delle informazioni.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ISTAT",
+      "definition": "Istituto Nazionale di Statistica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "IT-alert",
+      "definition": "Sistema nazionale di allarme pubblico via cell broadcast, operativo dal 2024 per i rischi di protezione civile.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "JRC",
+      "definition": "Joint Research Centre. Centro comune di ricerca della Commissione europea; sviluppa strumenti come SELFIE.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "LEED",
+      "definition": "Leadership in Energy and Environmental Design. Schema statunitense di certificazione volontaria della sostenibilità degli edifici.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "M6C1 / M6C2",
+      "definition": "Missione 6 (Salute) del PNRR, Componenti 1 e 2: reti di prossimità e telemedicina; innovazione e digitalizzazione del sistema sanitario.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MaaS",
+      "definition": "Mobility as a Service. Integrazione di più servizi di mobilità in un’unica piattaforma digitale di pianificazione, prenotazione e pagamento.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MASE",
+      "definition": "Ministero dell’Ambiente e della Sicurezza Energetica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MEL",
+      "definition": "Monitoring, Evaluation and Learning. Modulo del CCC per monitoraggio, valutazione e apprendimento; alimenta il reporting verso CDP-ICLEI Track.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MIM",
+      "definition": "Ministero dell’Istruzione e del Merito.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MIMIT",
+      "definition": "Ministero delle Imprese e del Made in Italy.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Mission Label",
+      "definition": "Riconoscimento della Commissione UE alle città della Cities Mission il cui Climate City Contract è stato validato.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MMG",
+      "definition": "Medico di Medicina Generale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "MQA",
+      "definition": "Metadata Quality Assessment. Valutazione automatica della qualità dei metadati open data pubblicata da data.europa.eu, con rating per portale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "NetZeroCities (NZC)",
+      "definition": "Piattaforma di Horizon Europe che accompagna le 112 Mission Cities verso la neutralità climatica 2030.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "NIS2",
+      "definition": "Network and Information Security Directive 2. Direttiva (UE) 2022/2555 sulla cybersicurezza dei settori essenziali; recepita con D.Lgs 138/2024.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "NTC",
+      "definition": "Norme Tecniche per le Costruzioni (DM 17/01/2018). Definiscono classi d’uso, criteri di valutazione della sicurezza e il coefficiente ζE per gli edifici esistenti.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "OIPE",
+      "definition": "Osservatorio Italiano sulla Povertà Energetica. Rete di ricerca che misura la povertà energetica in Italia con un indicatore ufficiale su dati ISTAT.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "OIV",
+      "definition": "Organismo Indipendente di Valutazione. Nelle PA attesta l’assolvimento degli obblighi di pubblicazione e trasparenza, soggetto a vigilanza ANAC.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "once-only",
+      "definition": "Principio per cui il cittadino fornisce un dato alla PA una sola volta; le amministrazioni se lo scambiano tra loro.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "OPCM",
+      "definition": "Ordinanza del Presidente del Consiglio dei Ministri.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "OT",
+      "definition": "Operational Technology. Tecnologie che controllano processi fisici e impianti industriali, distinte dall’IT gestionale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PAESC",
+      "definition": "Piano d’Azione per l’Energia Sostenibile e il Clima. Versione italiana del SECAP: piano comunale del Patto dei Sindaci con inventario emissioni e target.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PagoPA",
+      "definition": "Piattaforma nazionale dei pagamenti verso la PA; la società PagoPA S.p.A. gestisce anche PDND e app IO.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PAI / PGRA",
+      "definition": "Piano stralcio per l’Assetto Idrogeologico / Piano di Gestione del Rischio di Alluvioni. Mappano le fasce di pericolosità idraulica e da frana.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PAM",
+      "definition": "Perdita Annuale Media. Indicatore economico del rischio sismico (DM 58/2017): quota di valore dell’edificio persa mediamente ogni anno per il terremoto atteso.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PC",
+      "definition": "Protezione Civile.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PDND",
+      "definition": "Piattaforma Digitale Nazionale Dati. Catalogo nazionale di API per l’interoperabilità tra enti (principio once-only); istituita dall’art. 50-ter del CAD.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PELL",
+      "definition": "Public Energy Living Lab. Piattaforma nazionale ENEA ad adesione volontaria: censimento su data model standard e smart meter per l’illuminazione pubblica, in estensione agli edifici; adottata da Consip sul MePA.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PIAO",
+      "definition": "Piano Integrato di Attività e Organizzazione. Documento unico di programmazione della PA che assorbe, tra gli altri, il piano anticorruzione e trasparenza.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PID",
+      "definition": "Punto Impresa Digitale. Rete delle Camere di Commercio per la digitalizzazione delle imprese; eroga gli assessment SELFI4.0 e ZOOM4.0.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PMI",
+      "definition": "Piccole e Medie Imprese.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PNIEC",
+      "definition": "Piano Nazionale Integrato per l’Energia e il Clima. Strategia energetico-climatica nazionale al 2030: target su rinnovabili, efficienza e povertà energetica.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PNRR",
+      "definition": "Piano Nazionale di Ripresa e Resilienza.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PNT",
+      "definition": "Piattaforma Nazionale di Telemedicina. Infrastruttura AGENAS (PNRR M6C1) per televisita, teleassistenza, telemonitoraggio e teleconsulto.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PSN",
+      "definition": "Polo Strategico Nazionale. Infrastruttura cloud qualificata che ospita dati e servizi critici della PA italiana.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PTPCT",
+      "definition": "Piano Triennale di Prevenzione della Corruzione e della Trasparenza. Previgente piano anticorruzione, oggi confluito in una sezione del PIAO.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PUMS",
+      "definition": "Piano Urbano della Mobilità Sostenibile. Piano strategico decennale della mobilità urbana; include le indagini sullo split modale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "PUT",
+      "definition": "Piano Urbano del Traffico. Obbligatorio per i comuni oltre i 30.000 abitanti (art. 36 Codice della Strada); include sistemi tecnologici di regolazione del traffico.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Required / Recommended",
+      "definition": "Categorie di indicatori del CCC: obbligatori (impatto GHG diretto) e raccomandati (co-benefici e co-rischi).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "resilience-by-design",
+      "definition": "Criterio progettuale per cui la riserva e i percorsi di ripiego si definiscono insieme al servizio, non aggiunti a posteriori dopo un guasto.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ridondanza orizzontale",
+      "definition": "Moltiplicazione dei percorsi sullo stesso piano di funzionamento — due collegamenti, due alimentazioni — efficace quanto sono indipendenti i componenti duplicati.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "RPO",
+      "definition": "Recovery Point Objective. Perdita massima di dati tollerabile, espressa come intervallo temporale, in caso di disastro informatico.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "RSC",
+      "definition": "Resilient Smart City. Città che combina smartness e resilienza; quadro definito da Umeike, Dao & Crawford (2025) in dieci portfolio.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "RTO",
+      "definition": "Recovery Time Objective. Tempo massimo tollerabile per il ripristino di un servizio dopo un’interruzione.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SACE",
+      "definition": "Sistema Accreditamento Certificazione Energetica. Catasto energetico dell’Emilia-Romagna: accredita i certificatori e registra gli APE dal 2009.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SEAP / SECAP",
+      "definition": "Sustainable Energy (and Climate) Action Plan. Piani d’azione del Patto dei Sindaci; dal 2015 il SECAP integra l’adattamento (in Italia: PAESC).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SELFI4.0",
+      "definition": "Test di autovalutazione della maturità digitale delle imprese erogato dalla rete PID delle Camere di Commercio.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SELFIE",
+      "definition": "Self-reflection on Effective Learning by Fostering the use of Innovative Educational technologies. Strumento JRC di autovalutazione digitale delle scuole.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SIAPE",
+      "definition": "Sistema Informativo sugli Attestati di Prestazione Energetica. Banca dati nazionale gestita da ENEA che centralizza gli APE dei catasti di Regioni e Province autonome (D.M. 26/06/2015).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "sistemi sociotecnici",
+      "definition": "Teoria per cui sottosistema tecnico e sociale sono interdipendenti (Trist & Bamforth, 1951): ottimizzarne uno a scapito dell’altro peggiora il sistema (ottimizzazione congiunta).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SLA",
+      "definition": "Service Level Agreement. Accordo che fissa i livelli di servizio garantiti (tempi, disponibilità).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "slack",
+      "definition": "Margine operativo deliberato (capacità, tempo, scorte) che nei sistemi ad accoppiamento debole assorbe le perturbazioni.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SPID",
+      "definition": "Sistema Pubblico di Identità Digitale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "split modale",
+      "definition": "Ripartizione percentuale degli spostamenti tra i modi di trasporto (auto, TPL, bici, piedi); misura chiave del PUMS.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SSN",
+      "definition": "Servizio Sanitario Nazionale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "SUMP",
+      "definition": "Sustainable Urban Mobility Plan. Denominazione europea del piano urbano della mobilità sostenibile (in Italia: PUMS).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "technology-resilience paradox",
+      "definition": "Paradosso tecnologia-resilienza. I sistemi interconnessi che accrescono l’efficienza urbana possono ridurne la capacità di reggere shock e attacchi (Umeike et al., 2025).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "TEP",
+      "definition": "Acronimo storico di Tranvie Elettriche Parmensi; oggi TEP S.p.A., l’azienda del trasporto pubblico locale di Parma e provincia.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "tight coupling",
+      "definition": "Accoppiamento stretto tra le componenti di un sistema: un guasto locale si propaga rapidamente all’insieme (Perrow, 1984).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "TIQD",
+      "definition": "Testo Integrato della regolazione output-based del servizio di distribuzione dell’energia elettrica (ARERA, All. A Del. 617/2023, periodo 2024–2027).",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "TPL",
+      "definition": "Trasporto Pubblico Locale.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "Transizione 5.0",
+      "definition": "Credito d’imposta del PNRR (gestito da GSE/MIMIT) che lega investimenti digitali 4.0 a riduzioni certificate dei consumi energetici.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "UE",
+      "definition": "Unione Europea.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "UNDRR",
+      "definition": "United Nations Office for Disaster Risk Reduction. Ufficio ONU per la riduzione del rischio di disastri; partner del WCCD sulla ISO 37123.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "UTC",
+      "definition": "Urban Traffic Control. Sistema di controllo centralizzato del traffico urbano (centrale semaforica), fonte-dato per la regolazione intelligente della mobilità.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "vendor lock-in",
+      "definition": "Dipendenza da un singolo fornitore che rende costoso cambiare tecnologia o migrare dati e servizi.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "WCCD",
+      "definition": "World Council on City Data. Organismo con sede a Toronto che certifica le città sugli indicatori ISO 37120/37122/37123.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "wired city (città cablata)",
+      "definition": "Espressione degli anni Settanta-Ottanta per la città dotata di infrastruttura di comunicazione interattiva, attesa come motore di comunità e partecipazione. Nell’uso odierno indica invece la dotazione tecnologica priva di capacità operativa.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ZOOM4.0",
+      "definition": "Assessment di approfondimento della maturità digitale erogato dai PID, successivo al SELFI4.0.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    },
+    {
+      "term": "ζE (zeta-E)",
+      "definition": "Indice di sicurezza sismica (NTC 2018, cap. 8): rapporto tra capacità dell’edificio e domanda sismica di progetto, da 0 a 1; soglia di miglioramento 0,6 per scuole e classe IV.",
+      "addDate": "2026-09-07",
+      "lastUpdate": "2026-09-07"
+    }
+  ]
+}
